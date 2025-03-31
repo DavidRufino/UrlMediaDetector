@@ -69,6 +69,14 @@ public class YoutubeChannelTests
 }
 ```
 
+## Projects Using Url Media Detector
+
+The following projects use Url Media Detector. If your project uses this library, feel free to submit a pull request to be added to this list.
+
+- [uView Player](https://idruf.com)  
+
+(*If you’d like your project removed from this list, please open an issue.*)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.

@@ -34,4 +34,5 @@ public enum ServiceNameEnum
     Audio,
     Image,
     BilibiliTv,
+    Document
 }

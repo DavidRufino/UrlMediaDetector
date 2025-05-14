@@ -35,6 +35,7 @@ public class Program
             new JioCinema(),
             new Hulu(),
             new Frame(), // tested 2025-02-24
+            new Facebook(), // tested 2025-05-14
             new FacebookReels(), // tested 2025-02-26
             new DisneyPlus(),
             new Dailymotion(), // tested 2025-02-23
@@ -47,6 +48,7 @@ public class Program
             new Video(),
             new Audio(),
             new Image(),
+            new Document(),
         };
     }
 
@@ -62,10 +64,5 @@ public class Program
 
         // Return original serviceDatum if no match found
         return serviceDatum; 
-    }
-
-    public void OnReplace(string serviceName)
-    {
-
     }
 }
